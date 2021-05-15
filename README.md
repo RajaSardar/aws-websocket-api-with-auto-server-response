@@ -1,9 +1,9 @@
 # AWS Websocket API
+Deploy the function to aws 
 ```
 sls deploy
 ```
-to deploy into aws 
-test the api with correct action routes. 
+Test the api with correct action routes. 
 ex: 
 ```
 {"action": "message", "meassage": "Hello"}
